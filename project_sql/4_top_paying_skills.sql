@@ -19,7 +19,7 @@ GROUP BY
     skills_dim.skills
 ORDER BY
     avg_salary DESC
-LIMIT 25
+LIMIT 25;
 
 /*
 - DevOps & Engineering Crossover: A significant portion of the list involves infrastructure and version control tools 
